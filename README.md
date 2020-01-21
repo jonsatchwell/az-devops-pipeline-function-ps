@@ -1,4 +1,4 @@
-# Powershell Sample for Calling Azure DevOps Build
+# Powershell Sample for Calling Azure DevOps Build Definition
 
 This repository is a is a simple Powershell Azure Function that can queue an existing build from a build definition ID.
 
